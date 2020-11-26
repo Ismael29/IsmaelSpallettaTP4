@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1606350238 source:c:\users\isma\desktop\tpversionfinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"validaciones.h"
+	"parser.h"
+	<ctype.h>
+	<string.h>
+
+1606347939 c:\users\isma\desktop\tpversionfinal\linkedlist.h
+
+1606347892 c:\users\isma\desktop\tpversionfinal\employee.h
+	"LinkedList.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1606350230 c:\users\isma\desktop\tpversionfinal\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"validaciones.h"
+
+1606348042 c:\users\isma\desktop\tpversionfinal\validaciones.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1604769430 c:\users\isma\desktop\tpversionfinal\parser.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1606350231 source:c:\users\isma\desktop\tpversionfinal\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Employee.h"
+	"validaciones.h"
+	"Controller.h"
+
+1606349399 source:c:\users\isma\desktop\tpversionfinal\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606350231 source:c:\users\isma\desktop\tpversionfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1604769430 source:c:\users\isma\desktop\tpversionfinal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1606348042 source:c:\users\isma\desktop\tpversionfinal\validaciones.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	"validaciones.h"
+
